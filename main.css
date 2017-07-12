@@ -1,1 +1,29 @@
-#initialize css file
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+body {
+  background: url("https://images.freecreatives.com/wp-content/uploads/2016/03/White-Background-Iphone-Pics-1.jpg");
+}
+
+h1 {
+  font-family: Pacifico, serif;
+  font-size: 5em;
+  margin-bottom: 30px;
+}
+
+.quotes {
+  font-family:arial, serif;
+  font-size: 2em;
+  margin-bottom: 30px;
+}
+
+.btn {
+  background-color:grey;
+  font-size: 1.5em;
+  font-family: Pacifico, serif;
+}
+
+footer {
+  font-size:.5em;
+  margin-top:20px;
+  text-align: center;
+}
