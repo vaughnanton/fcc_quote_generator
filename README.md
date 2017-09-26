@@ -1,3 +1,3 @@
-A random quote generator made for CodeCamp's "Intermediate Front End" projects.
+A randomized quote generating app.
 
-The app can be seen at the following links: https://codepen.io/vaughnanton/pen/XMLENm ||| https://vaughnanton.github.io/fcc_quote_generator/
+The app can be used via [codepen](https://codepen.io/vaughnanton/pen/XMLENm) or [github pages](https://vaughnanton.github.io/fcc_quote_generator/).
